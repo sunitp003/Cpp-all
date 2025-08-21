@@ -11,7 +11,7 @@ This repository is packed with **practice programs, DSA exercises, patterns, and
 - **[DSA](./DSA/)** → Data Structures & Algorithms practice (Linked Lists, Recursion, Sorting, etc.) 🧠  
 - **[Patterns](./Patterns/)** → Creative pattern printing programs in C++ 🎨  
 - **[Proj](./Proj/)** → Mini projects & fun experiments in C++ 🚀  
-- **[Syntax Practice](./Syntax%20Practice/)** → Beginner-friendly syntax exercises (I/O, operators, conditions, loops, etc.) ✨  
+- **[Syntax Practice](./Syntax%20practice/)** → Beginner-friendly syntax exercises (I/O, operators, conditions, loops, etc.) ✨  
 
 > 💡 **Pro Tip:** Folder names with spaces like `Syntax Practice` should be quoted in terminal:  
 > ```bash
