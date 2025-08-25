@@ -83,7 +83,7 @@ int main(){
         cout<<"\nStack is not empty"<<endl;
     }
 
-    cout<<"\n"<<st.peek() ;
+    cout<<" "<<st.peek() ;
     st.pop();
     st.pop();
 
