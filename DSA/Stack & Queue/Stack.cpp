@@ -8,22 +8,17 @@ class Stack{
         int *arr;
         int top;
         int size;
-        
-
-
     //behaviour
     Stack(int size){
         this -> size = size;
         arr = new int[size];
         top =-1;
-
     }
     void push (int element){
         if (size - top >1){
             top++;
             arr[top] = element;
         }
-
     }
     void pop(){
         if(top>=0){
@@ -32,12 +27,8 @@ class Stack{
         else
         {
             cout<< "Stack Underflow"<<endl;
-        }
-        
-
-
+        }    
     }
-
     int peek() {
     if (top >= 0)
         return arr[top];
@@ -46,17 +37,12 @@ class Stack{
         return -1; 
     }
 }
-
     bool isEmpty() {
     if (top == -1)
         return true;
     else
         return false;
-}
-
-    
-
-
+}    
 };
 int main(){
     Stack st(5);
