@@ -1,0 +1,130 @@
+.:
+DSA/
+Patterns/
+Practice/
+Proj/
+README.md
+structure.txt
+
+./DSA:
+30day Dsa Oop Sql Roadmap.pdf
+Linked List/
+searching and sorting/
+Stack & Queue/
+tempCodeRunnerFile.cpp
+
+./DSA/Linked List:
+CircularLL.cpp
+DoublyLL.cpp
+SinglyLL.cpp
+
+./DSA/searching and sorting:
+BinarySearch.cpp
+BinarySearch.exe*
+LinearSearch.cpp
+LinearSearch.exe*
+
+./DSA/Stack & Queue:
+Queue.cpp
+Queue.exe*
+Stack.cpp
+Stack.exe*
+
+./Patterns:
+Pattern01.cpp
+Pattern01.exe*
+Pattern02.cpp
+Pattern02.exe*
+Pattern03.cpp
+Pattern03.exe*
+Pattern04.cpp
+Pattern04.exe*
+Pattern05.cpp
+Pattern05.exe*
+Pattern06.cpp
+Pattern06.exe*
+Pattern07.cpp
+Pattern07.exe*
+Pattern08.cpp
+Pattern08.exe*
+Pattern09.cpp
+Pattern09.exe*
+Pattern10.cpp
+Pattern10.exe*
+Pattern11.cpp
+Pattern11.exe*
+Pattern12.cpp
+Pattern12.exe*
+Pattern13.cpp
+
+./Practice:
+Pointers practice/
+Syntax practice/
+
+./Practice/Pointers practice:
+Level 1/
+Level 2/
+pointers practice.txt
+
+./Practice/Pointers practice/Level 1:
+Level1_2.cpp
+Level1_2.exe*
+Level1_3.cpp
+Level1_3.exe*
+Level1_4.cpp
+Level1_4.exe*
+Printaddofpointer.cpp
+Printaddofpointer.exe*
+
+./Practice/Pointers practice/Level 2:
+Level2_1.cpp
+Level2_1.exe*
+
+./Practice/Syntax practice:
+Level 1 — Output & Variables/
+Level 2 — Conditionals/
+Level 3 — Loops/
+Level 4 — Arrays & Strings/
+Level 5 — Functions/
+Level 6 — 2D Arrays/
+
+./Practice/Syntax practice/Level 1 — Output & Variables:
+1_Print_HW.cpp
+2_Print_info.cpp
+3_SumOfTwoNum.cpp
+4_ProductOfTwoNum.cpp
+5_MarksAvg.cpp
+
+./Practice/Syntax practice/Level 2 — Conditionals:
+1_EvenOdd.cpp
+2_PosNegorZero.cpp
+3_printGreater.cpp
+4_VoterElegible.cpp
+5_Divby5and11.cpp
+
+./Practice/Syntax practice/Level 3 — Loops:
+1_print1to10.cpp
+2_printTable.cpp
+3_PrintSumOFnNum.cpp
+4_printEvenBetweenRange.cpp
+5_FactorialOfnum.cpp
+
+./Practice/Syntax practice/Level 4 — Arrays & Strings:
+Arrayprint.cpp
+Arrayprint.exe*
+CountanEleInArray.cpp
+LargestNumInArray.cpp
+LargestNumInArray.exe*
+ReverseAnArray.cpp
+ReverseAnArray.exe*
+ReverseString.cpp
+ReverseString.exe*
+
+./Practice/Syntax practice/Level 5 — Functions:
+
+./Practice/Syntax practice/Level 6 — 2D Arrays:
+
+./Proj:
+1st.cpp
+1st.exe*
+2nd.cpp
