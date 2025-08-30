@@ -5,7 +5,7 @@ using namespace std;
 // Function to print the array
 void printArray(const vector<int> &arr)
 {
-    for (int val : arr)
+    for (int val : arr) // Range-based for loop
     {
         cout << val << " ";
     }
